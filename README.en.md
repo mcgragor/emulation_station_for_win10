@@ -1,18 +1,19 @@
-Emulation Station configured for Windows 10
+Emulation Station installer and configurator script for Windows 10
 ======
 
-An auto-installer to set up Emulation Station correctly on a 64 bit version of Windows 10.
+Auto installer to correctly configure the Emulation Station on a Windows 10 64bit machine.
 
-As Retropie's increase in popularity, the setup of Emulationstation on the Windows platform hasn't recieved much love.
-I spent several nights trying to figure out how to configure everything correctly for a Windows machine to finally get it just right. Given the pain I went through and how now several of my friends have requested the same setup I decided to throw together a quick little powershell script for others to use.
+Highlights
+-----
 
-Features
-------
-- Uses an up to date version of Emulation Station from the Raspberry Pi branch
-- Auto populates emulators with public domain roms
-- Auto installs a popular theme with support for adding 'Favorites'
-- Initial installer is less than a few KB in size, it's just scripts
-- Adds in a quick game content scraper which lives in the rom folder (run %UserProfile%\\.emulationstation\roms\scraper.exe)
+- New themes inserted and automatically configured
+- Spaceoddity as a default theme with video support
+- Updated the version of Retroarch to the latest
+- Uses an updated version of the Emulation Station from the Raspery Pi branch
+- Populates emulators with public domain roms automatically
+- Automatically installs a popular theme with support for adding favorites
+- Initial installer with less than a few KB, since they are just scripts
+- Include a roms information retriever inside the rom folder (run% UserProfile% \\. Emulationstation \ roms \ scraper.exe
 
 Translations
 ------
