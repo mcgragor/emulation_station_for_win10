@@ -62,6 +62,6 @@ Special Thanks
 - [Lipebello](https://github.com/lipebello) for the Spaceoddity and Retrorama theme
 - [retr0rangepi](https://github.com/retr0rangepi) by the theme Cosmos-ropi
 - [RetroPie](https://github.com/RetroPie) for the Carbon theme
-- [sselph] (https://github.com/sselph/scraper) for his wonderful recovery of information from roms
-- [Paulo Elias] (http://paulorobertoelias.com.br) for Brazilian Portuguese translation, cuttlefish automation and optional features
-- [Chris Franco] (https://github.com/Francommit) who came up with the idea and put together the entire structure of the original script
+- [sselph](https://github.com/sselph/scraper) for his wonderful recovery of information from roms
+- [Paulo Elias](http://paulorobertoelias.com.br) for Brazilian Portuguese translation, choco automation and optional features
+- [Chris Franco](https://github.com/Francommit) who came up with the idea and put together the entire structure of the original script
