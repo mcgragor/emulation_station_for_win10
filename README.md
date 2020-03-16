@@ -23,13 +23,6 @@ Passo-a-passo
 GIF da instalação:
 ![alt text](https://github.com/Francommit/github_gif_dump/blob/master/installation-instructions.gif?raw=true)
 
-Informações adicionais
------
-
-Se deseja saber mais sobre o projeto ou comentar algo, pode visitar os posts abaixo do meu blog:
-
-[Emulationstation - configuração simples para Windows](https://paulorobertoelias.com.br/2018-07-04-emulationstation-configuracao-simples-para-windows/)  
-[Emulationstation fácil para Windows - novidades](https://paulorobertoelias.com.br/2018-09-09-emulationstation-facil-para-windows-novidades/)  
 
 Recursos Opcionais e Dicas
 -----
