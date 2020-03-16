@@ -62,6 +62,9 @@ Agradecimentos Especiais
 - [dtgm](https://chocolatey.org/packages/emulationstation) por manter o pacote chocolatey do Emulation Station 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu-Update) por seu trabalho na coleção de rom livres 
 - [recalbox](https://github.com/recalbox/recalbox-themes) por seus temas 
+- [Lipebello](https://github.com/lipebello) pelo tema Spaceoddity  e Retrorama
+- [retr0rangepi](https://github.com/retr0rangepi) pelo tema Cosmos-ropi  
+- [RetroPie](https://github.com/RetroPie) pelo tema Carbon
 - [sselph](https://github.com/sselph/scraper) por seu maravilhoso recuperador de informações de roms 
 - [Paulo Elias](http://paulorobertoelias.com.br) pela tradução em Português do Brasil, automatização do choco e funcionalidades opcionais
 - [Chris Franco](https://github.com/Francommit) que teve a ideia e montou toda a estrutura do script original 
