@@ -15,10 +15,11 @@ Destaques
 Passo-a-passo
 -----
 
-1. Execute prepare.ps1 em uma sessão administrativa Powershell
+1. Execute powershell_run-as-admin.reg para adicionar "executar com administrador" ao scripts do power shell ao menu de contexto
+2. Execute prepare.ps1 em uma sessão administrativa Powershell
   (NOTA: Powershell pode reiniciar seu computador já que algumas bibliotecas requerem o reinício, se isto ocorrer, simplesmente re-execute depois de seu PC reiniciar)
-2. Execute o Emulation Station and aproveite
-3. Acesse suas ROMS aqui %UserProfile%\\.emulationstation\roms
+3. Execute o Emulation Station and aproveite
+4. Acesse suas ROMS aqui %UserProfile%\\.emulationstation\roms
 
 GIF da instalação:
 ![alt text](https://github.com/Francommit/github_gif_dump/blob/master/installation-instructions.gif?raw=true)
