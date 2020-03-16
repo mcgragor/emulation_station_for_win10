@@ -7,7 +7,7 @@ Destaques
 -----
 
 - Inseridos novos temas e configurados automaticamente
-- Spaceoddity como tema padrão com suporte a videos
+- Spaceoddity como tema padrão
 - Atualizada a versão do Retroarch para mais recente
 - Usa uma versão atualizada do Emulation Station da branch do Raspery Pi
 - Popula automaticamente emuladores com roms de domínio público
