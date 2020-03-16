@@ -53,15 +53,15 @@ Optional Features and Tips
 
 Special Thanks
 ------
-- [jrassa] (https://github.com/jrassa/EmulationStation) for his updated version of the Emulation Station build
-- [Nesworld] (http://www.nesworld.com/) for its free NES ROMs
-- [Libretro] (https://www.libretro.com/) for your version of Retroarch
-- [dtgm] (https://chocolatey.org/packages/emulationstation) for maintaining the Emulation Station's chocolatey package
-- [OpenEmu] (https://github.com/OpenEmu/OpenEmu-Update) for his work on the collection of free rom
-- [recalbox] (https://github.com/recalbox/recalbox-themes) for their themes
-- [Lipebello] (https://github.com/lipebello) for the Spaceoddity and Retrorama theme
-- [retr0rangepi] (https://github.com/retr0rangepi) by the theme Cosmos-ropi
-- [RetroPie] (https://github.com/RetroPie) for the Carbon theme
+- [jrassa](https://github.com/jrassa/EmulationStation) for his updated version of the Emulation Station build
+- [Nesworld](http://www.nesworld.com/) for its free NES ROMs
+- [Libretro](https://www.libretro.com/) for your version of Retroarch
+- [dtgm](https://chocolatey.org/packages/emulationstation) for maintaining the Emulation Station's chocolatey package
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu-Update) for his work on the collection of free rom
+- [recalbox](https://github.com/recalbox/recalbox-themes) for their themes
+- [Lipebello](https://github.com/lipebello) for the Spaceoddity and Retrorama theme
+- [retr0rangepi](https://github.com/retr0rangepi) by the theme Cosmos-ropi
+- [RetroPie](https://github.com/RetroPie) for the Carbon theme
 - [sselph] (https://github.com/sselph/scraper) for his wonderful recovery of information from roms
 - [Paulo Elias] (http://paulorobertoelias.com.br) for Brazilian Portuguese translation, cuttlefish automation and optional features
 - [Chris Franco] (https://github.com/Francommit) who came up with the idea and put together the entire structure of the original script
