@@ -53,11 +53,15 @@ Optional Features and Tips
 
 Special Thanks
 ------
-- jrassa for his up to date compiled version of Emulation Station - https://github.com/jrassa/EmulationStation
-- Nesworld for their open-source NES roms - http://www.nesworld.com/
-- Libretro for their retroarch version - https://www.libretro.com/
-- dtgm for maintaining the Emulation Station chocolatey package https://chocolatey.org/packages/emulationstation
-- OpenEmu for their Open-Source rom collection work https://github.com/OpenEmu/OpenEmu-Update
-- recalbox for their themes https://github.com/recalbox/recalbox-themes
-- sselph for his awesome scraper https://github.com/sselph/scraper
-- PRElias for Portuguese translations, choco auto-intall and new optional features - http://paulorobertoelias.com
+- [jrassa] (https://github.com/jrassa/EmulationStation) for his updated version of the Emulation Station build
+- [Nesworld] (http://www.nesworld.com/) for its free NES ROMs
+- [Libretro] (https://www.libretro.com/) for your version of Retroarch
+- [dtgm] (https://chocolatey.org/packages/emulationstation) for maintaining the Emulation Station's chocolatey package
+- [OpenEmu] (https://github.com/OpenEmu/OpenEmu-Update) for his work on the collection of free rom
+- [recalbox] (https://github.com/recalbox/recalbox-themes) for their themes
+- [Lipebello] (https://github.com/lipebello) for the Spaceoddity and Retrorama theme
+- [retr0rangepi] (https://github.com/retr0rangepi) by the theme Cosmos-ropi
+- [RetroPie] (https://github.com/RetroPie) for the Carbon theme
+- [sselph] (https://github.com/sselph/scraper) for his wonderful recovery of information from roms
+- [Paulo Elias] (http://paulorobertoelias.com.br) for Brazilian Portuguese translation, cuttlefish automation and optional features
+- [Chris Franco] (https://github.com/Francommit) who came up with the idea and put together the entire structure of the original script
