@@ -1,4 +1,4 @@
-Emulation Station configurado para Windows 10
+Script instalador e configurador do Emulation Station para Windows 10
 ======
 
 Auto instalador para configurar corretamente o Emulation Station em uma máquina com Windows 10 64bit.
@@ -6,6 +6,9 @@ Auto instalador para configurar corretamente o Emulation Station em uma máquina
 Destaques
 -----
 
+- Inseridos novos temas e configurados automaticamente
+- Spaceoddity como tema padrão com suporte a videos
+- Atualizada a versão do Retroarch para mais recente
 - Usa uma versão atualizada do Emulation Station da branch do Raspery Pi
 - Popula automaticamente emuladores com roms de domínio público
 - Instala automaticamente um tema popular com suporte para a adição de favoritos
